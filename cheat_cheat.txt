@@ -1,0 +1,10 @@
+//installs module_name
+pip install [module_name]
+//checks for list of modules
+pip list
+
+//creating so file
+cc -fPIC -shared -o fileName.so fileName.c
+
+//gets file path
+./file_name
